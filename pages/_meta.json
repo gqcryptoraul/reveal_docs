@@ -1,15 +1,16 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "Introdução",
+  "install": "Instalacion",
+  "another": "Outra Página",
+  "advanced": "Avançado (Uma Pasta)",
   "about": {
-    "title": "About",
-    "type": "page"
+  "title": "Sobre",
+  "type": "página"
   },
   "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
+  "title": "Contato ↗",
+  "type": "página",
+  "href": "https://twitter.com/soyraulgonzalez",
+  "newWindow": true
   }
-}
+  }
